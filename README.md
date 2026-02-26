@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Doyeon's%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Doyeon's%20GitHub&fontSize=90)
 <br/>
 
 ## Tech Stack
@@ -16,7 +16,7 @@
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddxyxxn)](https://github.com/anuraghazra/github-readme-stats)
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddxyxxn&hide=contribs,prs&show_icons=true&theme=graywhite)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ddxyxxn&show_icons=true&theme=tokyonight)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddxyxxn)](https://github.com/anuraghazra/github-readme-stats)
 
