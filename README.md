@@ -1,5 +1,5 @@
 ## Hi, I'm Doyeon! 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to-ln-Doyeon's%20GitHub&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to-nl-Doyeon's%20GitHub&fontSize=80)
 <br/>
 
 ## 🙋🏻‍♀️ About Me
