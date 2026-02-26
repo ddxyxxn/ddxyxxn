@@ -16,7 +16,7 @@
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddxyxxn)](https://github.com/anuraghazra/github-readme-stats)
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ddxyxxn&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ddxyxxn&show_icons=true&theme=github_dark&cache_seconds=1800)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddxyxxn)](https://github.com/anuraghazra/github-readme-stats)
 
