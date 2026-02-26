@@ -16,9 +16,16 @@
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddxyxxn)](https://github.com/anuraghazra/github-readme-stats)
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ddxyxxn&show_icons=true&theme=github_dark&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ddxyxxn&show_icons=true&theme=radical)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddxyxxn)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ddxyxxn&show_icons=true&theme=github_dark&cache_seconds=86400&v=1" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddxyxxn&layout=compact&theme=github_dark&cache_seconds=86400&v=1" height="165"/>
+</p>
 
 <!--
 **ddxyxxn/ddxyxxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
