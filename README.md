@@ -5,7 +5,7 @@
 ## 🙋🏻‍♀️ About Me
 - 사용자 중심의 서비스를 구현하기 위해 끊임없이 고민합니다.
 - 협업 속에서 함께 발전하기 위해 소통합니다.
-> Contact: [kodoyeon02@gmail.com](mailto:kodoyeon02@gmail.com)
+> **Contact**: [kodoyeon02@gmail.com](mailto:kodoyeon02@gmail.com)
 <br/>
 
 ## 🛠Tech Stack
