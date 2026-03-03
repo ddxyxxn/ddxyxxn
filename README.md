@@ -3,6 +3,9 @@
 <br/>
 
 ## 🙋🏻‍♀️ About Me
+- 사용자 중심의 서비스를 구현하기 위해 끊임없이 고민합니다.
+- 협업 속에서 함께 발전하기 위해 소통합니다.
+> Contact: [kodoyeon02@gmail.com](kodoyeon02@gmail.com)
 <br/>
 
 ## 🛠Tech Stack
@@ -15,16 +18,18 @@
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Drawio](https://img.shields.io/badge/drawio-%23F08705?style=for-the-badge&logo=diagrams.net&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 <br/>
 
+<!--
 ## 🚀Project Preview
 <br/>
 
 ## 📊GitHub Stats
-<!--
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddxyxxn)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ddxyxxn&show_icons=true&theme=radical)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddxyxxn)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 ## 📊 GitHub Stats
